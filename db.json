@@ -33,4 +33,33 @@
       "dateOfBirth": "1995-02-28T00:00:00.000Z"
     }
   ]
+"accounts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "nguyenvanan",
+      "password": "An@gmail.com",
+      "status": "active",
+      "lastLogin": "2025-04-02T08:15:30.000Z",
+      "createdAt": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "tranthibinh",
+      "password": "binh@gmail.com",
+      "status": "active",
+      "lastLogin": "2025-04-06T14:22:10.000Z",
+      "createdAt": "2023-05-01T00:00:00.000Z"
+    }
+   {
+      "id": 3,
+      "userId": 3,
+      "username": "trananhtuan",
+      "password": "tuan@gmail.com",
+      "status": "unactive",
+      "lastLogin": "2025-04-06T14:22:10.000Z",
+      "createdAt": "2023-05-01T00:00:00.000Z"
+    }
+  ]  
 }
