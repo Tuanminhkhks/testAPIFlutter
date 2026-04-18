@@ -32,8 +32,8 @@
       "avatar": "https://example.com/avatars/dieu.jpg",
       "dateOfBirth": "1995-02-28T00:00:00.000Z"
     }
-  ]
-"accounts": [
+  ],
+  "accounts": [
     {
       "id": 1,
       "userId": 1,
@@ -51,8 +51,8 @@
       "status": "active",
       "lastLogin": "2025-04-06T14:22:10.000Z",
       "createdAt": "2023-05-01T00:00:00.000Z"
-    }
-   {
+    },
+    {
       "id": 3,
       "userId": 3,
       "username": "trananhtuan",
@@ -61,5 +61,5 @@
       "lastLogin": "2025-04-06T14:22:10.000Z",
       "createdAt": "2023-05-01T00:00:00.000Z"
     }
-  ]  
+  ]
 }
